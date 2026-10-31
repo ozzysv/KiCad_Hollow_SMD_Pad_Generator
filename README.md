@@ -1,2 +1,7 @@
-# KiCad_Hollow_SMD_Pad_Generator
-Parametric KiCad footprint generator for hollow SMD pads, designed for EMI/RFI shielding cans. Features customizable dimensions, rounded corners, segmented solder paste, F.Fab contours, courtyard generation, and a multilingual GUI.
+KiCad Hollow SMD Pad Generator
+
+A Python GUI tool for creating custom hollow, rounded-rectangle SMD footprints for KiCad, particularly for EMI/RFI shielding cans.
+
+It supports adjustable dimensions, copper rim width, corner radii, shield wall thickness, dual F.Fab outlines, segmented F.Paste apertures, and automatic F.CrtYd generation.
+
+Features live preview, Ukrainian/English/German interfaces, automatic settings persistence, and .kicad_mod export.
